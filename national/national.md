@@ -12,4 +12,4 @@ Publications publiées par la FJR au niveau national.
 ### Août 2025
 
 * **31/08/2025** : Tract - Rentrée 2025  
-  [Version texte](format-graphique/2025/2025-09-11---rentrée-2025/publication.md) - [Version graphique](format-texte/2025/2025-08-31---rentrée-2025.md)
+  [Version texte](format-texte/2025/2025-08-31---rentrée-2025.md) - [Version graphique](format-graphique/2025/2025-09-11---rentrée-2025/publication.md)
